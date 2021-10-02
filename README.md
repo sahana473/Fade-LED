@@ -1,7 +1,6 @@
 # Fade-LED
 ## Abstract 
-       
-       This example demonstrates the use of the analogWrite() function in fading an LED off and on. AnalogWrite uses pulse width modulation (PWM), turning a digital pin on and off very quickly with a different ratio between on and off, to create a fading effect.
+This example demonstrates the use of the analogWrite() function in fading an LED off and on. AnalogWrite uses pulse width modulation (PWM), turning a digital pin on and off very quickly with a different ratio between on and off, to create a fading effect.
 
 ## Hardware Components:
 
